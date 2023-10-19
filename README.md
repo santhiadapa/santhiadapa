@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Masterhead](https://wallpapercave.com/wp/wp9904460.png)]
+
+![Masterhead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)
 <h1 align="center">Hi 👋, I'm Santhi Priya</h1>
 <h3 align="center">My interest makes me learn about data analytics</h3>
 
